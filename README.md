@@ -1,2 +1,4 @@
 # hello-world
-Repository to test account.
+BETTER TAKE THIS OUT.
+
+This is just an example of a repository.
